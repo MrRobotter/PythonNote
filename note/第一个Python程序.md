@@ -50,3 +50,8 @@ LI NING,I LOVE YOU
 zhangjunyangdeMacBook-Pro:day1 Young$ python htll.py
 python: can't open file 'htll.py': [Errno 2] No such file or directory
 ````
+
+#### 直接运行py文件
+
+在第一行加 #!
+
